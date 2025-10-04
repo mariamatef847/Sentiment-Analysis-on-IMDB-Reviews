@@ -54,6 +54,4 @@ Each cleaned review is passed through the TextBlob sentiment analyzer to calcula
 The results are visualized using Matplotlib to show the distribution of positive vs. negative reviews.
 ![chart](Screenshot%202025-10-05%20004132.png)
 
-	•	Polarity > 0: Positive
-	•	Polarity < 0: Negative
-	•	Polarity = 0: Neutral (counted as Negative for simplicity)
+	
