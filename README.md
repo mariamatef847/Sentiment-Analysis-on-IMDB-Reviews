@@ -46,8 +46,11 @@ Only a random sample of 500 reviews was used for this project to improve process
 ## Sentiment Analysis
 
 Each cleaned review is passed through the TextBlob sentiment analyzer to calculate polarity:
+
 Polarity > 0: Positive
+
 Polarity < 0: Negative
+
 Polarity = 0: Neutral (counted as Negative for simplicity)
 
 ## visualization
